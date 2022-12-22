@@ -1,0 +1,11 @@
+{
+  "appId": "com.colorsim.ap",
+  "appName": "ColorsIM",
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
